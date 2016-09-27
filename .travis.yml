@@ -7,4 +7,4 @@ before_script:
   - php composer.phar install
 
 script:
-  - phpunit test/*
+  - phpunit test/TestTarjeta.php
